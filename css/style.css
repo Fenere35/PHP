@@ -20,3 +20,19 @@
   box-sizing: border-box; 
   margin: auto;
 }
+
+.header__flex {
+  display: flex;
+  align-items: center;
+  gap: 450px;
+}
+
+.logo__img {
+  height: 200px;
+  width: 200px;
+}
+
+.centre {
+  padding: 100px 0;
+  margin: 0 auto;
+}
